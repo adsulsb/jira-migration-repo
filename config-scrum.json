@@ -1,0 +1,7 @@
+{
+    "source-project": "Jira migration 1",
+    "target-project": "Jira migration",
+    "query": "project = SCRUM ORDER BY Rank ASC",
+    "using-jira-cloud": true
+    
+}
